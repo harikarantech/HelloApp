@@ -27,7 +27,7 @@ public class HelloApp6 {
             name = nameBuilder.toString();
         }
 
-        // Print final greeting
+        
         System.out.println("Hello, " + name + "!");
     }
 }
